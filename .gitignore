@@ -1,0 +1,12 @@
+/Temp
+/obj
+/Library
+/Assets/Orthello/Examples
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+*.pidb
+*.v11.suo
+*.v11
+*.suo

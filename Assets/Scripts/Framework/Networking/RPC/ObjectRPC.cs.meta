@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: a29df02d8f5723446bc43e1c692b8fed
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerSpawnPointPrefab: {fileID: 100004, guid: 12a26cc6368372b4aa5c312e9351545f,
+      type: 2}
+  - MothershipPrefab: {fileID: 100024, guid: 1abf41b51d5bec741bf43aff3e162e7c, type: 2}
+  - AIDronePrefab: {fileID: 100004, guid: dfef6e9d32b95064392288cd2758b6c0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

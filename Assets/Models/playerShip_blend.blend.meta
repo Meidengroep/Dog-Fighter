@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: 5c519437b62d01345a641c50e82ec309
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Ball
+    100002: Body
+    100004: Core
+    100006: Frame
+    100008: Head
+    100010: LBoosters
+    100012: LThruster
+    100014: LThrusterBox
+    100016: //RootNode
+    100018: RBoosters
+    100020: Ring1
+    100022: Ring2
+    100024: RThruster
+    100026: RThrusterBox
+    100028: Wing
+    100030: Empty
+    100032: PlayerShip
+    400000: Ball
+    400002: Body
+    400004: Core
+    400006: Frame
+    400008: Head
+    400010: LBoosters
+    400012: LThruster
+    400014: LThrusterBox
+    400016: //RootNode
+    400018: RBoosters
+    400020: Ring1
+    400022: Ring2
+    400024: RThruster
+    400026: RThrusterBox
+    400028: Wing
+    400030: Empty
+    400032: PlayerShip
+    2300000: Ball
+    2300002: Body
+    2300004: Frame
+    2300006: Head
+    2300008: LBoosters
+    2300010: LThrusterBox
+    2300012: RBoosters
+    2300014: Ring1
+    2300016: Ring2
+    2300018: RThrusterBox
+    2300020: Wing
+    3300000: Ball
+    3300002: Body
+    3300004: Frame
+    3300006: Head
+    3300008: LBoosters
+    3300010: LThrusterBox
+    3300012: RBoosters
+    3300014: Ring1
+    3300016: Ring2
+    3300018: RThrusterBox
+    3300020: Wing
+    4300000: Frame
+    4300002: Wing
+    4300004: Head
+    4300006: Body
+    4300008: Ball
+    4300010: Ring1
+    4300012: Ring2
+    4300014: RBoosters
+    4300016: RThrusterBox
+    4300018: LThrusterBox
+    4300020: LBoosters
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
